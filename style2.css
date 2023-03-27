@@ -1,33 +1,29 @@
 h1 {
-    color: rgb(24, 102, 198);
-
-}
-header{
-    border-bottom: 1px rgb(24, 102, 198) solid;
-    font-family: 'Times New Roman', Times, serif;
+  color: rgb(24, 102, 198);
+  border-bottom: 1px rgb(24, 102, 198) solid;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
 }
 
-body{
-    border: 2px black solid;
-    padding: 8px;
-    font-family: Arial, Helvetica, sans-serif;
+body {
+  border: 2px black solid;
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
-    color: grey;
-    font-size: 18px;
-
+  color: grey;
+  font-size: 18px;
 }
 
 h3 {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-
-.email{
-    color: rgb(248, 108, 58);
+.email {
+  color: rgb(248, 108, 58);
 }
 
 .web {
-    color: rgb(248, 108, 58);
+  color: rgb(248, 108, 58);
 }

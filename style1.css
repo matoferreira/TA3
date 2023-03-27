@@ -1,38 +1,37 @@
+header {
+  border-bottom: 10px purple dotted;
+  font-family: "Times New Roman", Times, serif;
+}
+
 h1 {
-    color: rgb(245, 121, 142);
-
-}
-header{
-    border-bottom: 10px purple dotted;
-    font-family: 'Times New Roman', Times, serif;
+  color: rgb(245, 121, 142);
 }
 
-body{
-    border: 5px black solid;
-    padding: 8px;
-    font-family: Arial, Helvetica, sans-serif;
+body {
+  border: 5px black solid;
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
-    color: grey;
-    font-size: 18px;
-
+  color: rgb(192, 190, 190);
+  font-size: 18px;
 }
 
 h3 {
-    font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-footer{
-    background-color: rgb(240, 239, 239);
-    border: 4px purple solid;
+footer {
+  background-color: rgb(240, 239, 239);
+  border: 4px purple solid;
 }
 
-.email{
-    color: green;
+.email {
+  color: green;
 }
 
 .web {
-    color: rgb(248, 108, 58);
+  color: rgb(248, 108, 58);
 }
